@@ -1,0 +1,32 @@
+name: metabat2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - ursky
+  - r
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - bzip2=1.0.8=h7b6447c_0
+  - c-ares=1.18.1=h7f8727e_0
+  - ca-certificates=2022.6.15=ha878542_0
+  - htslib=1.10.2=hd3b49d5_1
+  - krb5=1.19.2=hac12032_0
+  - libcurl=7.82.0=h0b77cf5_0
+  - libdeflate=1.6=h516909a_0
+  - libedit=3.1.20210910=h7f8727e_0
+  - libev=4.33=h7f8727e_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libnghttp2=1.46.0=hce63b2e_0
+  - libssh2=1.10.0=h8f2d780_0
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - metabat2=2.15=h986a166_1
+  - ncurses=6.3=h5eee18b_3
+  - openssl=1.1.1o=h166bdaf_0
+  - perl=5.26.2=h14c3975_0
+  - pigz=2.6=h27826a3_0
+  - xz=5.2.5=h7f8727e_1
+  - zlib=1.2.12=h7f8727e_2
+prefix: /vortexfs1/home/dgellermcgrath/.conda/envs/metabat2
